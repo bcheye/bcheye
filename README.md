@@ -1,5 +1,15 @@
 # 💫 About Me:
-## 👋 Hey, I’m Brian<br><br>🛠️ I’m currently working on:<br>- Building robust, scalable data pipelines using **Airflow**, **dbt**, and **Python**<br>- Custom Fivetran connectors for the **Shopify GraphQL API**<br>- Real-time contribution margin models powering finance and strategy decisions<br><br>🤝 I’m looking to collaborate on:<br>- Open source tools that streamline data workflows<br>- ML/AI infrastructure and observability projects<br>- Anything cool in the data space — let’s build something awesome<br><br>🧠 I’m looking for help with:<br>- Scaling Prefect/Airflow across teams<br>- Efficient strategies for near real-time data ingestion<br><br>🌱 I’m currently learning:<br>- **Kubernetes for ML workloads**<br>- **Advanced Prefect 2.0 orchestration patterns**<br>- **Modern data stack observability tools** like OpenLineage and Marquez<br><br>💬 Ask me about:<br>- Building resilient ETL/ELT pipelines<br>- Choosing between Snowflake, Redshift, and BigQuery<br>- How to make dbt Cloud behave 😅<br><br>⚡ Fun fact:<br>I once debugged a production pipeline at 35,000 feet using airplane Wi-Fi and duct tape (okay, just the Wi-Fi, but still... ✈️)<br><br>---
+## 👋 Hey, I’m Brian
+
+🛠️ I’m currently working on scalable data pipelines with **Airflow**, **dbt**, and **Python**
+
+🤝 I’m looking to collaborate on modern data stack projects and open source tools
+
+🌱 I’m currently learning about **ML infrastructure** and real-time data ingestion
+
+💬 Ask me about data engineering, orchestration, or anything dbt-related
+
+⚡ Fun fact: I once debugged a DAG mid-flight with airplane Wi-Fi ✈️
 
 
 ## 🌐 Socials:
